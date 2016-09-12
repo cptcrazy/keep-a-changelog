@@ -4,3 +4,7 @@
 /.sass-cache
 /build
 /_site
+
+# node dependency directories
+# reason: generate_toc_CHANGELOG.md.sh
+node_modules/

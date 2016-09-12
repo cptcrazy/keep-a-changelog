@@ -4,6 +4,42 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/) 
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+<!-- toc -->
+
+- [[Unreleased]](#unreleased)
+  * [Added](#added)
+  * [Changed](#changed)
+- [[0.3.0] - 2015-12-03](#030---2015-12-03)
+  * [Added](#added-1)
+- [[0.2.0] - 2015-10-06](#020---2015-10-06)
+  * [Changed](#changed-1)
+- [[0.1.0] - 2015-10-06](#010---2015-10-06)
+  * [Added](#added-2)
+  * [Changed](#changed-2)
+- [[0.0.8] - 2015-02-17](#008---2015-02-17)
+  * [Changed](#changed-3)
+  * [Fixed](#fixed)
+- [[0.0.7] - 2015-02-16](#007---2015-02-16)
+  * [Added](#added-3)
+  * [Changed](#changed-4)
+  * [Fixed](#fixed-1)
+- [[0.0.6] - 2014-12-12](#006---2014-12-12)
+  * [Added](#added-4)
+- [[0.0.5] - 2014-08-09](#005---2014-08-09)
+  * [Added](#added-5)
+- [[0.0.4] - 2014-08-09](#004---2014-08-09)
+  * [Added](#added-6)
+  * [Changed](#changed-5)
+  * [Removed](#removed)
+- [[0.0.3] - 2014-08-09](#003---2014-08-09)
+  * [Added](#added-7)
+- [[0.0.2] - 2014-07-10](#002---2014-07-10)
+  * [Added](#added-8)
+- [0.0.1 - 2014-05-31](#001---2014-05-31)
+  * [Added](#added-9)
+
+<!-- tocstop -->
+
 ## [Unreleased]
 ### Added
 - zh-CN and zh-TW translations from @tianshuo.
